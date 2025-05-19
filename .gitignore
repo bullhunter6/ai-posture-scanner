@@ -1,0 +1,7 @@
+# virtual-env
+venv/
+# mitm logs
+captured.jsonl
+# secrets
+.env
+*.pem
